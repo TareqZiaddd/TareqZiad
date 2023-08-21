@@ -314,6 +314,9 @@ transform:scale(1.1,1.1) ;
     .spacer {
         margin: 0 0.3em; /* تعديل قيمة الهامش حسب الحجم المطلوب */
     }
+  .card a {
+    text-decoration: none;
+}
 
     .title::after {
         content: "";
